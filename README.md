@@ -38,15 +38,18 @@ python app.py
 
 ## Graphics and plots
 #### 1.
-![image_1.png](https://github.com/PedroFrias/forecasting_stockprices/blob/main/assets/imgs/image_1.png)
+![img_1.png](https://github.com/PedroFrias/forecasting_stockprices/blob/main/assets/imgs/img_1.png)
+
 Candlestick showing PETR4's price changes during business hours. Updates every minute.
 
 #### 2.
-![image_2.png](https://github.com/PedroFrias/forecasting_stockprices/blob/main/assets/imgs/image_2.png)
+![img_2.png](https://github.com/PedroFrias/forecasting_stockprices/blob/main/assets/imgs/img_2.png)
+
 Error between the predicted and actual value over the last N samples.
 
 #### 3.
-![image_2.png](https://github.com/PedroFrias/forecasting_stockprices/blob/main/assets/imgs/image_3.png)
+![img_3.png](https://github.com/PedroFrias/forecasting_stockprices/blob/main/assets/imgs/img_3.png)
+
 Predictions for the next days.
 
 Open a browser at http://127.0.0.1:8050
